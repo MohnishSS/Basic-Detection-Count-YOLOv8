@@ -11,3 +11,7 @@ To use your own image as input,
 If you want to see the image after it has been processed,
   Go to line 7 of 'objects-and-count.py'
   Change show=False to show=True
+
+Here is an example of the output for 'busy_street.png'
+<img width="93" alt="image" src="https://github.com/MohnishSS/Object-Detection-and-Count/assets/133986129/7d93af06-f6fb-41e9-b642-ecf773d7382b">
+
