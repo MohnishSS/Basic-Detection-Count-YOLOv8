@@ -4,7 +4,7 @@ import cv2
 #change image source here
 #change show=False to True to see the image with objects highlighted
 model = YOLO('yolov8l.pt')
-results = model("sample-images/cars.png", show=False)
+results = model("Sample Images/cars.png", show=False)
 
 objects=[]
 
