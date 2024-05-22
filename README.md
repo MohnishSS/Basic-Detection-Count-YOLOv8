@@ -13,5 +13,6 @@ If you want to see the image after it has been processed,
   Change show=False to show=True
 
 Here is an example of the output for 'busy_street.png'
-<img width="93" alt="image" src="https://github.com/MohnishSS/Object-Detection-and-Count/assets/133986129/7d93af06-f6fb-41e9-b642-ecf773d7382b">
+<img width="123" alt="image" src="https://github.com/MohnishSS/Object-Detection-and-Count/assets/133986129/4d56942b-2816-4cbb-ba55-2522eb87efb5">
+
 
