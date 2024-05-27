@@ -1,6 +1,6 @@
 # Object-Detection-and-Count
 
-This project was made using OpenCV and YOLO in Python.
+This project was made using OpenCV and YOLOv8 in Python.
 
 It takes 1 image as input.
 
